@@ -2,7 +2,7 @@
 
 def countdown(integar)
 counter=0
-while counter <integar
+while counter > integar
   puts "#{integar} SECOND(S)!"
   counter-= 1
 end
