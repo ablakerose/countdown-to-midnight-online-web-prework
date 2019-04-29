@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(integar)
-counter= integar
+counter= 100
 while counter > integar
   puts "#{integar} SECOND(S)!"
   counter-= 1
