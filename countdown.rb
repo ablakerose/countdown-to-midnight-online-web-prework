@@ -7,3 +7,7 @@ while integer > 0
 end
   return "HAPPY NEW YEAR!"
 end
+
+def countdown_with_sleep(integer)
+  integer.seconds
+end 
